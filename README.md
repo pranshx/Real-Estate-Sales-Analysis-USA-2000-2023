@@ -5,7 +5,7 @@ This project analyzes **real estate sales trends** across different states and c
 It focuses on sales distribution, property characteristics, pricing trends, and seasonal variations, leveraging Power BI dashboards for visualization.  
 
 ## 📂 Project Name  
-**Real Estate Sales Analysis – USA (2000–2023)**  
+**Real Estate Sales Analysis – USA**  
 
 ## Domain  
 **Real Estate | Data Analytics | Business Intelligence**  
